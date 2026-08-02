@@ -8,7 +8,7 @@ Social Publisher uses the Meta (Facebook and Instagram) Graph APIs to publish an
 
 The privacy policy is available at:
 
-https://mes001mes.github.io/social-publisher-privacy/
+https://mes001mes.github.io/social-publisher/
 
 ## Contact
 
